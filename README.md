@@ -23,6 +23,6 @@ This Python application allows users to download YouTube videos effortlessly usi
    git clone https://github.com/yourusername/youtube-downloader.git
    cd youtube-downloader
 2.Install the required libraries:
-  ```bash
-  pip install pytube
+   ```bash
+   pip install pytube
 
